@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.jboss.csdn</groupId>
+    <groupId>org.jboss.csdn.series</groupId>
     <artifactId>parent</artifactId>
     <version>1.0</version>
     <name>Parent of JBoss 系列</name>
@@ -19,6 +19,7 @@
     <modules>
         <module>2</module>
 	<module>3</module>
+	<module>4</module>
     </modules>
 
 </project>
