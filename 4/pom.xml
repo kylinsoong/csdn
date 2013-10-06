@@ -7,7 +7,7 @@
     <artifactId>ejb-invocation-parent</artifactId>
     <version>1.0</version>
     <packaging>pom</packaging>
-    <name>Parent for JBoss 系列四</name>
+    <name>JBoss 系列四</name>
 
     <licenses>
         <license>

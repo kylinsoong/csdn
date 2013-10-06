@@ -7,7 +7,7 @@
     <artifactId>webcluster-session-replication</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
-    <name>JBoss 系列二 Session Replication Demo</name>
+    <name>JBoss 系列二：Session Replication Demo</name>
     <description>Session Replication Content Display Demo</description>
 
     <url>https://github.com/kylinsoong</url>

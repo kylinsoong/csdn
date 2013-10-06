@@ -9,7 +9,7 @@
     <artifactId>ejb-invocation-client-server</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
-    <name>EJB Invocation Client Server</name>
+    <name>JBoss 系列四：EJB Invocation Client Server</name>
     <description>EJB Invocation Client Server</description>
 
 	<dependencyManagement>

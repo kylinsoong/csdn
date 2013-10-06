@@ -6,8 +6,8 @@
    <artifactId>jpa-helloworld</artifactId>
    <version>1.0</version>
    <packaging>war</packaging>
-   <name>JPA HelloWorld</name>
-   <description>JPA HelloWorld</description>
+   <name>JBoss 系列五：JPA HelloWorld</name>
+   <description>JBoss 系列五：JPA HelloWorld</description>
 
    <url>https://github.com/kylinsoong/JPA</url>
    <licenses>

@@ -7,7 +7,7 @@
    <artifactId>ejb-invocation-service</artifactId>
    <version>1.0</version>
    <packaging>ejb</packaging>
-   <name>EJB Invocation Service</name>
+   <name>JBoss 系列四：EJB Invocation Service</name>
    <description>EJB Invocation Service</description>
 
 

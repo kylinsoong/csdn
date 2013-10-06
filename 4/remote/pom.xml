@@ -7,7 +7,7 @@
    <artifactId>ejb-invocation-client-remote</artifactId>
    <version>1.0</version>
    <packaging>jar</packaging>
-   <name>EJB Invocation Client Remote</name>
+   <name>JBoss 系列四：EJB Invocation Client Remote</name>
    <description>EJB Invocation Client Remote</description>
 
 
