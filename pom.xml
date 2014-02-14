@@ -23,6 +23,7 @@
 	<module>5</module>
 	<module>6</module>
 	<module>14</module>
+	<module>viewer</module>
     </modules>
 
 </project>
